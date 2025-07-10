@@ -1,4 +1,4 @@
-# 🌐 Serverless-Web-Application (Portfolio with View Counter)
+# 🌐 Serverless-Web-Application-in-AWS (Portfolio with View Counter)
 
 This project is a personal portfolio website hosted on AWS using a fully serverless architecture. It includes a live view counter powered by **AWS Lambda**, **API Gateway**, and **DynamoDB** — all accessible from a static site hosted on **Amazon S3**.
 
