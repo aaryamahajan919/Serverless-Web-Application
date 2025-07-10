@@ -18,4 +18,10 @@ This project is a personal portfolio website hosted on AWS using a fully serverl
 ```plaintext
 [S3 Static Website] ← HTML/CSS/JS
         ↓
-[script.js] → [API Gateway] → [Lambda Function] → [DynamoDB]
+   [script.js]
+        ↓
+  [API Gateway]
+        ↓
+ [Lambda Function]
+        ↓
+   [DynamoDB]
